@@ -20,7 +20,7 @@
 
 <img alt="Jonalyn Q. Arnett" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+
 
 </div>
 
