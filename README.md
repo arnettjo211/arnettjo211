@@ -1,1 +1,1 @@
-Bachelor of Science
+Bachelor of Scienceeee
