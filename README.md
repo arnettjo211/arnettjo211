@@ -1,1 +1,1 @@
-Arnett 
+Bachelor of Science
