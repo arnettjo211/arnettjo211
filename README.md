@@ -13,10 +13,23 @@
 ### jtqa2112@gmail.com
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
 alt = "Facebook" width= "40" height= "40" class= "center">
-<h3 href="https://www.facebook.com/share/1A63qoXj9i/" target= "_blank">Ate Jo 
+<h3 href="https://www.facebook.com/share/1A63qoXj9i/" target= "_blank">
 
 
-
+### Education
+### Primary Education
+#### Potong Elementary School 
+#### 1997-2004
+### Secondary Education
+#### Potong National High School
+#### 2004 - 2008
+### Tertiary Education
+#### Provincial Training Center, Northern Samar
+#### Computer System Servicing
+#### 2013
+#### Don Honorio Ventura State University
+#### Bachelor of Science in Information Technology
+#### 2021 - 2025
 
 
 <h3 align="left">Languages and Tools:</h3>
