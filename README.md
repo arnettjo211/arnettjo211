@@ -7,7 +7,10 @@
   <br>
 </h1>
 
-<h4 align="center">Find me on Facebook <a href="https://www.facebook.com/share/1A63qoXj9i/" target="_blank">Facebook</a>.</h4>
+<h3 align="center">Send me an email <a href="jtqa2112@gmail.com" target="_blank">here</a>.</h3>
+<h4 align="center">Find me on <a href="https://www.facebook.com/share/1A63qoXj9i/" target="_blank">Facebook</a>.</h4>
+
+
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
