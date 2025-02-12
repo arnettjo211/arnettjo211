@@ -22,19 +22,19 @@ alt = "Facebook" width= "40" height= "40" class= "center">
 
 
 ### Education
-### Primary Education
-#### Potong Elementary School 
-#### 1997-2004
-### Secondary Education
-#### Potong National High School
-#### 2004 - 2008
-### Tertiary Education
-#### Provincial Training Center, Northern Samar
-#### Computer System Servicing
-#### 2013
-#### Don Honorio Ventura State University
-#### Bachelor of Science in Information Technology
-#### 2021 - 2025
+<h3>Primary Education </h3> <br>
+Potong Elementary School <br>
+1997-2004 <br>
+<h3>Secondary Education </h3>
+Potong National High School <br>
+2004 - 2008
+<h3>Tertiary Education </h3> <br>
+Provincial Training Center, Northern Samar <br>
+Computer System Servicing <br>
+2013 <br>
+Don Honorio Ventura State University <br>
+Bachelor of Science in Information Technology <br>
+2021 - 2025
 
 
 <h3 align="left">Languages and Tools:</h3>
