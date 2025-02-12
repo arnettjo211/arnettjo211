@@ -14,12 +14,11 @@
 alt = "Location" width= "40" height= "40" class= "center"> 
 <br> Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
 
-<img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg">
-<br>jtqa2112@gmail.com
 
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
-alt = "Facebook" width= "40" height= "40" class= "center">
+<a href= "jtqa2112@gmail.com" target="_blank"><img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg"><br></a>
 
+ <a href = "https://www.facebook.com/share/1A63qoXj9i/" target="_blank"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
+alt = "Facebook" width= "40" height= "40" class= "center"></a>
 
 ### Education
 <h3>Primary Education </h3> <br>
