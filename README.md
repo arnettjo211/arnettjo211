@@ -1,6 +1,4 @@
-<center>
-<img src= "https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/ID-PIC.png" alt= "Image" height= "200" width="200">
-</center>
+<img src= "https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/ID-PIC.png" alt= "Image" style= "width : 50%;">
 <h1 align="center">
   <br>
   Jonalyn Q. Arnett
