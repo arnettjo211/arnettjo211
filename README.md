@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">Send me an email <a href="jtqa2112@gmail.com" target="_blank">here</a>.</h3>
-<h4 align="center">Find me on <a href="https://www.facebook.com/share/1A63qoXj9i/" target="_blank">Facebook</a>.</h4>
+<h3 align="center">Find me on <a href="https://www.facebook.com/share/1A63qoXj9i/" target="_blank">Facebook</a>.</h3>
 
 
 
@@ -33,7 +33,6 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Key Features
 
