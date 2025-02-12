@@ -1,6 +1,5 @@
 <img src= "https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/ID-PIC.png">
-<h1 >
-  <br>
+ <br>
   Jonalyn Q. Arnett
   <br>
 </h1>
