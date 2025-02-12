@@ -6,22 +6,20 @@
 </h1>
 
 ### Aspiring Front-End Developer with a passion in building user-friendly websites. Proficient in HTML, CSS and Javascript. Eager to learn and grown while gaining experience. 
-### Address
-## Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
-### Contact Information
-### Phone
-## 0905-375-4823
-### Email
-## jtqa2112@gmail.com 
+### Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
+### Phone: 0905-375-4823
+<img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg">
 
-
-
+### jtqa2112@gmail.com
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
+alt = "Facebook" width= "40" height= "40" class= "center">
+<h3 href="https://www.facebook.com/share/1A63qoXj9i/" target= "_blank">Ate Jo 
 
 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" 
-target="_blank" rel="noreferrer"> 
+target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
 alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
