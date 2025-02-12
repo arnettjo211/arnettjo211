@@ -6,13 +6,13 @@
 </h1>
 
 ### Aspiring Front-End Developer with a passion in building user-friendly websites. Proficient in HTML, CSS and Javascript. Eager to learn and grown while gaining experience. 
-###  Address
-Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
+### Address
+## Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
 ### Contact Information
 ### Phone
-0905-375-4823
+## 0905-375-4823
 ### Email
-jtqa2112@gmail.com 
+## jtqa2112@gmail.com 
 
 
 
