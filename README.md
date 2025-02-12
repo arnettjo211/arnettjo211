@@ -7,13 +7,14 @@
 
 ### Aspiring Front-End Developer with a passion in building user-friendly websites. Proficient in HTML, CSS and Javascript. Eager to learn and grown while gaining experience. 
 ### Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
-### Phone: 0905-375-4823
-<img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg">
+<p style="display:inline-block;"> <img src="https://static-00.iconduck.com/assets.00/phone-icon-512x512-srayy267.png" width= "40" height="40"> 09053754823 </p>
 
-### jtqa2112@gmail.com
+<p style="display:inline-block;"> <img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" width= "70" height="70"> jtqa2112@gmail.com </p>
+
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
-alt = "Facebook" width= "40" height= "40" class= "center">
-<h3 href="https://www.facebook.com/share/1A63qoXj9i/" target= "_blank">Ate Jo 
+alt = "Facebook" width= "40" height= "40" class= "center" href="https://www.facebook.com/share/1A63qoXj9i/" target= "_blank">Ate Jo
+
+
 
 
 
