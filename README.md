@@ -5,8 +5,7 @@
   <br>
 </h1>
 
-### Aspiring Front-End Developer with a passion in building user-friendly websites. Proficient in HTML, CSS and Javascript. Eager to learn and grown while gaining experience. 
-
+### I am an aspiring Front-End Developer with a passion for building user-friendly websites. I am proficient in HTML, CSS, and JavaScript, and I am eager to learn and grow while gaining experience."
 
 
 
