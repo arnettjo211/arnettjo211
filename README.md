@@ -12,7 +12,7 @@
 
 <img src= "https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/location-icon.png"
 alt = "Location" width= "40" height= "40" class= "center"> 
-<br> Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
+<br> Bacolor, Pampanga
 
 
 <a href= "jtqa2112@gmail.com" target="_blank"><img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg"><br></a>
