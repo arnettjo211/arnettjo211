@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="pictureID.jpg" width="150" />
+  <img src="picID.jpg" width="150" />
 </p>
 
 🌍 **Location:** Bacolor, Pampanga  
