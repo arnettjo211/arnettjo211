@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontColor=FFD700)
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <strong><font size="6">Jonalyn Q. Arnett</font></strong><br>
+  <em>Front-End Developer</em>
 </p>
 
-# **Jonalyn Q. Arnett**  
-*Front-End Developer*  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7A825&center=true&vCenter=true&width=435&lines=Aspiring+Front-End+Developer;Passionate+in+UI%2FUX+Design;Always+Learning+New+Technologies" />
@@ -12,15 +12,14 @@
 
 
 <p align="center">
-  <img src="picID.jpg" width="150" />
+  <img src="picID.jpg" width="150" style="border-radius:50%; transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
 </p>
-
 🌍 **Location:** Bacolor, Pampanga  
 ✉️ **Email:** [jtqa2112@gmail.com](mailto:jtqa2112@gmail.com)  
 📘 **Facebook:** [Profile Link](https://www.facebook.com/share/1A63qoXj9i/)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="700" />
 </p>
 
 
@@ -39,9 +38,6 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
 - **Provincial Training Center, Northern Samar**  
   *Computer System Servicing (2013)*  
 
-<p align="center">
-  <img src="picID.jpg" width="150" style="border-radius:50%; transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
-</p>
 
 
 ## **Skills** 🛠️  
@@ -64,7 +60,7 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
 </p>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="700" />
 </p>
 
 
