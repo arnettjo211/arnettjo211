@@ -4,7 +4,7 @@
 *Front-End Developer*  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7A825&center=true&width=435&lines=Aspiring+Front-End+Developer;Passionate+about+web+design+and+UI%2FUX" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7A825&center=true&width=435&lines=Aspiring+Front-End+Developer;Passionate+in+UI%2FUX+design" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 ---
 
 ## **About Me**  
-I am an aspiring **Front-End Developer** passionate about crafting intuitive and visually appealing websites. I have a **solid grasp** of **HTML, CSS, and JavaScript**, and I’m always eager to improve my skills in modern web technologies.  
+I am an aspiring **Front-End Developer** passionate about crafting intuitive and visually appealing websites. I have a basic understanding of **HTML, CSS, and JavaScript**, and I’m always eager to improve my skills in modern web technologies.  
 
 ---
 
