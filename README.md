@@ -1,9 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontColor=FFD500)
 
 <p align="center">
-  <strong><span style="font-size: 32px;">I am Jonalyn Q. Arnett</span></strong>
+  <h1>Jonalyn Q. Arnett</h1>
 </p>
-  
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7A825&center=true&vCenter=true&width=435&lines=Front-End+Developer;Passionate+in+UI%2FUX+Design;Always+Learning+New+Technologies" />
