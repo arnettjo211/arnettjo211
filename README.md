@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F7A825&center=true&width=435&lines=Aspiring+Front-End+Developer;Passionate+about+web+design+and+UI%2FUX" />
 </p>
 
-![Profile Picture](https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/ID-PIC.png)  
+<p align="center">
+  <img src="pictureID.jpg" width="150" />
+</p>
 
 🌍 **Location:** Bacolor, Pampanga  
 ✉️ **Email:** [jtqa2112@gmail.com](mailto:jtqa2112@gmail.com)  
