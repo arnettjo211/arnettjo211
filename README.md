@@ -1,9 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontColor=FFD500)
 
-<p align="center">
-  <strong><span style="font-size: 32px;">Jonalyn Q. Arnett</span></strong><br>
-  <em><span style="font-size: 24px;">Front-End Developer</span></em>
-</p>
+# **Jonalyn Q. Arnett**  
+*Front-End Developer* 
 
 
 
