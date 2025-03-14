@@ -19,8 +19,9 @@
 📘 **Facebook:** [Profile Link](https://www.facebook.com/share/1A63qoXj9i/)  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="700" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
 </p>
+
 
 
 ## **About Me**  
