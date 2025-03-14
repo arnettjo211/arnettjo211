@@ -1,8 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontColor=FFD500)
 
-<p align="center">
-  <h1>Jonalyn Q. Arnett</h1>
-</p>
+<h1 align="center">I am Jonalyn Q. Arnett</h1>
 
 
 <p align="center">
