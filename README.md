@@ -1,56 +1,66 @@
-# **Jonalyn Q. Arnett**  
-*Aspiring Front-End Developer*  
+<img src= "https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/ID-PIC.png">
+<h1>
+ <br>
+  Jonalyn Q. Arnett
+  <br>
+</h1>
 
-![Profile Picture](https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/ID-PIC.png)  
+### Aspiring Front-End Developer with a passion in building user-friendly websites. Proficient in HTML, CSS and Javascript. Eager to learn and grown while gaining experience. 
 
-🌍 **Location:** Bacolor, Pampanga  
-✉️ **Email:** [jtqa2112@gmail.com](mailto:jtqa2112@gmail.com)  
-📘 **Facebook:** [Profile Link](https://www.facebook.com/share/1A63qoXj9i/)  
 
----
 
-## **About Me**  
-I am an aspiring **Front-End Developer** with a passion for building user-friendly websites. I am proficient in **HTML, CSS, and JavaScript** and eager to learn and grow while gaining experience in the field.  
 
----
+<img src= "https://raw.githubusercontent.com/arnettjo211/arnettjo211/refs/heads/main/location-icon.png"
+alt = "Location" width= "40" height= "40" class= "center"> 
+<br> Block 8 Lot 3, Solana Casa Real, Bacolor, Pampanga
 
-## **Education** 🎓  
 
-- **Don Honorio Ventura State University**  
-  *Bachelor of Science in Information Technology (2021 - 2025)*  
-- **Provincial Training Center, Northern Samar**  
-  *Computer System Servicing (2013)*  
+<a href= "jtqa2112@gmail.com" target="_blank"><img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg"><br></a>
 
----
+ <a href = "https://www.facebook.com/share/1A63qoXj9i/" target="_blank"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
+alt = "Facebook" width= "40" height= "40" class= "center"></a>
 
-## **Skills** 🛠️  
+### Education
+<h3>Primary Education </h3> <br>
+Potong Elementary School <br>
+1997-2004 <br>
+<h3>Secondary Education </h3>
+Potong National High School <br>
+2004 - 2008
+<h3>Tertiary Education </h3> <br>
+Provincial Training Center, Northern Samar <br>
+Computer System Servicing <br>
+2013 <br>
+Don Honorio Ventura State University <br>
+Bachelor of Science in Information Technology <br>
+2021 - 2025
 
-✔️ **Web Development** - HTML, CSS, JavaScript  
-✔️ **Problem Solving**  
-✔️ **Critical Thinking**  
-✔️ **Effective Communication**  
-✔️ **Interpersonal & Active Listening**  
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" 
+target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+ alt="html5" width="40" height="40"/> </a> </p>
 
-## **Languages & Tools**  
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-</p>  
 
----
 
-## **Languages Spoken** 🗣️  
-🗨️ **English**  
-🗨️ **Tagalog**  
 
----
+## Expertise 
 
-## **Connect With Me** 🌐  
-[![Gmail](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg)](mailto:jtqa2112@gmail.com)  
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/share/1A63qoXj9i/)  
+* Communication Skills
+* Interpersonal Skils
+* Active Listening
+* Critical Thinking
+* Problem Solving
 
----
+## Language
+
+* English
+* Tagalog
+* Active Listening
+* Critical Thinking
+* Problem Solving
