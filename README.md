@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontColor=FFD700)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome!&fontSize=50&fontColor=FFD500)
 
 <p align="center">
   <strong><font size="6">Jonalyn Q. Arnett</font></strong><br>
@@ -14,6 +14,7 @@
 <p align="center">
   <img src="picID.jpg" width="150" style="border-radius:50%; transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
 </p>
+
 🌍 **Location:** Bacolor, Pampanga  
 ✉️ **Email:** [jtqa2112@gmail.com](mailto:jtqa2112@gmail.com)  
 📘 **Facebook:** [Profile Link](https://www.facebook.com/share/1A63qoXj9i/)  
@@ -23,12 +24,11 @@
 </p>
 
 
-
 ## **About Me**  
 I am an aspiring **Front-End Developer** passionate about crafting intuitive and visually appealing websites. I have a basic understanding of **HTML, CSS, and JavaScript**, and I’m always eager to improve my skills in modern web technologies.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
 </p>
 
 
@@ -39,6 +39,9 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
 - **Provincial Training Center, Northern Samar**  
   *Computer System Servicing (2013)*  
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
+</p>
 
 
 ## **Skills** 🛠️  
@@ -49,8 +52,9 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
 ✔️ **Interpersonal & Active Listening**  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
 </p>
+
 
 
 ## **Languages & Tools**  
@@ -61,8 +65,9 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
 </p>  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="700" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
 </p>
+
 
 
 ## **Languages Spoken** 🗣️  
@@ -71,8 +76,9 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
 🗨️ **Cebuano**  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
 </p>
+
 
 ## **Connect With Me** 🌐  
 <p align="center">
@@ -83,7 +89,8 @@ I am an aspiring **Front-End Developer** passionate about crafting intuitive and
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="1000" height="5" />
 </p>
 
