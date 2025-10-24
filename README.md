@@ -8,10 +8,6 @@
 </p>
 
 
-<p align="center">
-  <img src="picID.jpg" width="150" style="border-radius:50%; transition: transform 0.5s ease-in-out;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
-</p>
-
 🌍 **Location:** Bacolor, Pampanga  
 ✉️ **Email:** [jtqa2112@gmail.com](mailto:jtqa2112@gmail.com)  
 📘 **Facebook:** [Profile Link](https://www.facebook.com/share/1A63qoXj9i/)  
