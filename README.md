@@ -9,7 +9,7 @@
 
 
 🌍 **Location:** Bacolor, Pampanga  
-✉️ **Email:** [jtqa2112@gmail.com](mailto:arnett.jonalyn@gmail.com)  
+✉️ **Email:** [jona.dakilasoft@gmail.com](mailto:jona.dakilasoft@gmail.com)  
 📘 **Facebook:** [Profile Link](https://www.facebook.com/share/1A63qoXj9i/)  
 
 <p align="center">
